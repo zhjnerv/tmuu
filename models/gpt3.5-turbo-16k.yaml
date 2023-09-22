@@ -1,0 +1,5 @@
+api: openai
+params:
+    model: gpt-3.5-turbo-16k
+    temperature: 0.2
+system_message: ""

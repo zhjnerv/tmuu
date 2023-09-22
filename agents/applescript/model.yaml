@@ -1,0 +1,5 @@
+api: openai
+params:
+    model: gpt-4-0314
+    temperature: 0.0
+system_message: "你是一个专业的Applescript程序员"
